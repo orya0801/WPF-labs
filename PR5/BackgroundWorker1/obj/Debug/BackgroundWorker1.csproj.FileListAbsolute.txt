@@ -1,0 +1,16 @@
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\bin\Debug\BackgroundWorker1.exe.config
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\bin\Debug\BackgroundWorker1.exe
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\bin\Debug\BackgroundWorker1.pdb
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1.csproj.AssemblyReference.cache
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1.csproj.SuggestedBindingRedirects.cache
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\MainWindow.g.cs
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\App.g.cs
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1_MarkupCompile.cache
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1_MarkupCompile.lref
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\MainWindow.baml
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1.g.resources
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1.Properties.Resources.resources
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1.csproj.GenerateResource.cache
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1.csproj.CoreCompileInputs.cache
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1.exe
+D:\University\Создание ПО ИКС\PR5\BackgroundWorker1\obj\Debug\BackgroundWorker1.pdb

@@ -1,0 +1,16 @@
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\bin\Debug\WpfRoutedEvent_2_1.exe.config
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\bin\Debug\WpfRoutedEvent_2_1.exe
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\bin\Debug\WpfRoutedEvent_2_1.pdb
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1.csproj.AssemblyReference.cache
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1.csproj.SuggestedBindingRedirects.cache
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\MainWindow.g.cs
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\App.g.cs
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1_MarkupCompile.cache
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1_MarkupCompile.lref
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\MainWindow.baml
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1.g.resources
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1.Properties.Resources.resources
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1.csproj.GenerateResource.cache
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1.csproj.CoreCompileInputs.cache
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1.exe
+D:\University\Создание ПО ИКС\PR2\WpfRoutedEvent_2_1\obj\Debug\WpfRoutedEvent_2_1.pdb

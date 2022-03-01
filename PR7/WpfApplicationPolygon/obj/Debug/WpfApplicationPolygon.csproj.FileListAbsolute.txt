@@ -1,0 +1,16 @@
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\bin\Debug\WpfApplicationPolygon.exe.config
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\bin\Debug\WpfApplicationPolygon.exe
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\bin\Debug\WpfApplicationPolygon.pdb
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.csproj.AssemblyReference.cache
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.csproj.SuggestedBindingRedirects.cache
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\MainWindow.g.cs
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\App.g.cs
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon_MarkupCompile.cache
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon_MarkupCompile.lref
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\MainWindow.baml
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.g.resources
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.Properties.Resources.resources
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.csproj.GenerateResource.cache
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.csproj.CoreCompileInputs.cache
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.exe
+D:\University\Создание ПО ИКС\PR7\WpfApplicationPolygon\obj\Debug\WpfApplicationPolygon.pdb

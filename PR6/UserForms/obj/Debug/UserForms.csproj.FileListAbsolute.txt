@@ -1,0 +1,16 @@
+D:\University\Создание ПО ИКС\PR6\UserForms\bin\Debug\UserForms.exe.config
+D:\University\Создание ПО ИКС\PR6\UserForms\bin\Debug\UserForms.exe
+D:\University\Создание ПО ИКС\PR6\UserForms\bin\Debug\UserForms.pdb
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms.csproj.AssemblyReference.cache
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms.csproj.SuggestedBindingRedirects.cache
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\MainWindow.g.cs
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\App.g.cs
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms_MarkupCompile.cache
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms_MarkupCompile.lref
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\MainWindow.baml
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms.g.resources
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms.Properties.Resources.resources
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms.csproj.GenerateResource.cache
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms.csproj.CoreCompileInputs.cache
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms.exe
+D:\University\Создание ПО ИКС\PR6\UserForms\obj\Debug\UserForms.pdb

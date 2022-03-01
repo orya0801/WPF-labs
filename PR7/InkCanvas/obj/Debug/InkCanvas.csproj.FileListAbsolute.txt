@@ -1,0 +1,16 @@
+D:\University\Создание ПО ИКС\PR7\InkCanvas\bin\Debug\InkCanvas.exe.config
+D:\University\Создание ПО ИКС\PR7\InkCanvas\bin\Debug\InkCanvas.exe
+D:\University\Создание ПО ИКС\PR7\InkCanvas\bin\Debug\InkCanvas.pdb
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas.csproj.AssemblyReference.cache
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas.csproj.SuggestedBindingRedirects.cache
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\MainWindow.g.cs
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\App.g.cs
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas_MarkupCompile.cache
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas_MarkupCompile.lref
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\MainWindow.baml
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas.g.resources
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas.Properties.Resources.resources
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas.csproj.GenerateResource.cache
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas.csproj.CoreCompileInputs.cache
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas.exe
+D:\University\Создание ПО ИКС\PR7\InkCanvas\obj\Debug\InkCanvas.pdb

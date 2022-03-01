@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AoUJLlwUDKnnqNJO7lLsTVib6pgP/Nkx1CO7xJxa//r71XsbbO6X2Wy89nH03u959DdcXDj6Ight4PyKi5S59A==",
+  "success": true,
+  "projectFilePath": "D:\\University\\Создание ПО ИКС\\PR7\\WpfAppChart\\WpfAppChart.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniil\\.nuget\\packages\\dotnetprojects.wpftoolkit.datavisualization\\6.1.94\\dotnetprojects.wpftoolkit.datavisualization.6.1.94.nupkg.sha512"
+  ],
+  "logs": []
+}

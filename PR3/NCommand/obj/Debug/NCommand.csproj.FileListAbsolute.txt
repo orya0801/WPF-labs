@@ -1,0 +1,16 @@
+D:\University\Создание ПО ИКС\PR3\NCommand\bin\Debug\NCommand.exe.config
+D:\University\Создание ПО ИКС\PR3\NCommand\bin\Debug\NCommand.exe
+D:\University\Создание ПО ИКС\PR3\NCommand\bin\Debug\NCommand.pdb
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand.csproj.AssemblyReference.cache
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand.csproj.SuggestedBindingRedirects.cache
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\MainWindow.g.cs
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\App.g.cs
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand_MarkupCompile.cache
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand_MarkupCompile.lref
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\MainWindow.baml
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand.g.resources
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand.Properties.Resources.resources
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand.csproj.GenerateResource.cache
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand.csproj.CoreCompileInputs.cache
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand.exe
+D:\University\Создание ПО ИКС\PR3\NCommand\obj\Debug\NCommand.pdb
