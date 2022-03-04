@@ -1,0 +1,6 @@
+C:\Users\daniil.orel\University\SoftwareDevelopment\WPF.Calculator\CalculatorEngine\bin\Debug\CalculatorEngine.dll
+C:\Users\daniil.orel\University\SoftwareDevelopment\WPF.Calculator\CalculatorEngine\bin\Debug\CalculatorEngine.pdb
+C:\Users\daniil.orel\University\SoftwareDevelopment\WPF.Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\University\SoftwareDevelopment\WPF.Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\University\SoftwareDevelopment\WPF.Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.dll
+C:\Users\daniil.orel\University\SoftwareDevelopment\WPF.Calculator\CalculatorEngine\obj\Debug\CalculatorEngine.pdb

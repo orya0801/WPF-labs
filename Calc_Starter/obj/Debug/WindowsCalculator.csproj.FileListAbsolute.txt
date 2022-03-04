@@ -1,0 +1,29 @@
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+D:\fo lean\for Studio_C#\Windows_Course\My_Windows_C#\Стартовые проекты\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\bin\Debug\WindowsCalculator.exe.config
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\bin\Debug\WindowsCalculator.exe
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\bin\Debug\WindowsCalculator.pdb
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\bin\Debug\CalculatorEngine.dll
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\bin\Debug\CalculatorEngine.pdb
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\obj\Debug\WindowsCalculator.exe
+D:\fo lean\for Создание ПО\Практические задания\Calc_Starter\obj\Debug\WindowsCalculator.pdb
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\bin\Debug\WindowsCalculator.exe.config
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\bin\Debug\WindowsCalculator.exe
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\bin\Debug\WindowsCalculator.pdb
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\bin\Debug\CalculatorEngine.dll
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\bin\Debug\CalculatorEngine.pdb
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\obj\Debug\WindowsCalculator.csproj.AssemblyReference.cache
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\obj\Debug\WindowsCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\obj\Debug\SimpleCalculator.CalcUI.resources
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\obj\Debug\WindowsCalculator.csproj.CopyComplete
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\obj\Debug\WindowsCalculator.exe
+C:\Users\daniil.orel\University\SoftwareDevelopment\Calc_Starter\obj\Debug\WindowsCalculator.pdb
