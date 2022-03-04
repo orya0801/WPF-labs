@@ -1,0 +1,78 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Style01/1.0.0": {
+        "dependencies": {
+          "Syncfusion.Themes.MaterialDark.WPF": "19.4.0.54"
+        },
+        "runtime": {
+          "Style01.dll": {}
+        }
+      },
+      "Syncfusion.Licensing/19.4.0.54": {
+        "runtime": {
+          "lib/net5.0/Syncfusion.Licensing.dll": {
+            "assemblyVersion": "19.4.0.54",
+            "fileVersion": "19.4.0.54"
+          }
+        }
+      },
+      "Syncfusion.SfSkinManager.WPF/19.4.0.54": {
+        "dependencies": {
+          "Syncfusion.Licensing": "19.4.0.54"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {
+            "assemblyVersion": "19.4500.0.54",
+            "fileVersion": "19.4500.0.54"
+          }
+        }
+      },
+      "Syncfusion.Themes.MaterialDark.WPF/19.4.0.54": {
+        "dependencies": {
+          "Syncfusion.Licensing": "19.4.0.54",
+          "Syncfusion.SfSkinManager.WPF": "19.4.0.54"
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialDark.WPF.dll": {
+            "assemblyVersion": "19.4500.0.54",
+            "fileVersion": "19.4500.0.54"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Style01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Syncfusion.Licensing/19.4.0.54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ZKnYgKckUHAIageDUUIoNdZjEAT+RRRaOPlYyBZn+MV5ZLjteODAjRuiDdK1iej9E26j4ui6e5HQ9iWkNUxHFw==",
+      "path": "syncfusion.licensing/19.4.0.54",
+      "hashPath": "syncfusion.licensing.19.4.0.54.nupkg.sha512"
+    },
+    "Syncfusion.SfSkinManager.WPF/19.4.0.54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-A1tcIpcJadRAm4z7II+mOicojeEvBp+6Ekfjm/uxHkE3Vv9pqOgkJkNsM+oYWr+pqKPd/odezBlC6o4G6eXQsA==",
+      "path": "syncfusion.sfskinmanager.wpf/19.4.0.54",
+      "hashPath": "syncfusion.sfskinmanager.wpf.19.4.0.54.nupkg.sha512"
+    },
+    "Syncfusion.Themes.MaterialDark.WPF/19.4.0.54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bBuQg15vx9Aa3lYYhblyQ/AwfGRv2es+wsqm+tDgFrqjAVFsi2x8v8dUPpRRraoFmgP+N/ZdB8Ntri/ERCv8zg==",
+      "path": "syncfusion.themes.materialdark.wpf/19.4.0.54",
+      "hashPath": "syncfusion.themes.materialdark.wpf.19.4.0.54.nupkg.sha512"
+    }
+  }
+}

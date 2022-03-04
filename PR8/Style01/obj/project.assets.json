@@ -1,0 +1,203 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "Syncfusion.Licensing/19.4.0.54": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Syncfusion.Licensing.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Syncfusion.Licensing.dll": {}
+        }
+      },
+      "Syncfusion.SfSkinManager.WPF/19.4.0.54": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "19.4.0.54"
+        },
+        "compile": {
+          "lib/net5.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll": {}
+        }
+      },
+      "Syncfusion.Themes.MaterialDark.WPF/19.4.0.54": {
+        "type": "package",
+        "dependencies": {
+          "Syncfusion.Licensing": "19.4.0.54",
+          "Syncfusion.SfSkinManager.WPF": "19.4.0.54"
+        },
+        "compile": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialDark.WPF.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialDark.WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Syncfusion.Licensing/19.4.0.54": {
+      "sha512": "ZKnYgKckUHAIageDUUIoNdZjEAT+RRRaOPlYyBZn+MV5ZLjteODAjRuiDdK1iej9E26j4ui6e5HQ9iWkNUxHFw==",
+      "type": "package",
+      "path": "syncfusion.licensing/19.4.0.54",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "lib/MonoAndroid10.0/Syncfusion.Licensing.dll",
+        "lib/MonoAndroid90/Syncfusion.Licensing.dll",
+        "lib/Xamarin.Mac/Syncfusion.Licensing.dll",
+        "lib/Xamarin.iOS10/Syncfusion.Licensing.dll",
+        "lib/net20/Syncfusion.Licensing.dll",
+        "lib/net35/Syncfusion.Licensing.dll",
+        "lib/net40/Syncfusion.Licensing.dll",
+        "lib/net45/Syncfusion.Licensing.dll",
+        "lib/net451/Syncfusion.Licensing.dll",
+        "lib/net46/Syncfusion.Licensing.dll",
+        "lib/net5.0-windows10.0/Syncfusion.Licensing.dll",
+        "lib/net5.0/Syncfusion.Licensing.dll",
+        "lib/netcoreapp3.1/Syncfusion.Licensing.dll",
+        "lib/netstandard1.0/Syncfusion.Licensing.dll",
+        "lib/netstandard1.2/Syncfusion.Licensing.dll",
+        "lib/netstandard1.4/Syncfusion.Licensing.dll",
+        "lib/netstandard2.0/Syncfusion.Licensing.dll",
+        "lib/portable-win+net45+wp80+win81+wpa81/Syncfusion.Licensing.dll",
+        "lib/uap10.0/Syncfusion.Licensing.dll",
+        "syncfusion.licensing.19.4.0.54.nupkg.sha512",
+        "syncfusion.licensing.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.SfSkinManager.WPF/19.4.0.54": {
+      "sha512": "A1tcIpcJadRAm4z7II+mOicojeEvBp+6Ekfjm/uxHkE3Vv9pqOgkJkNsM+oYWr+pqKPd/odezBlC6o4G6eXQsA==",
+      "type": "package",
+      "path": "syncfusion.sfskinmanager.wpf/19.4.0.54",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net40/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/net45/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net45/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/net451/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net451/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/net46/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net46/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/net5.0-windows7.0/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/net5.0-windows7.0/Syncfusion.SfSkinManager.WPF.xml",
+        "lib/netcoreapp3.1/Syncfusion.SfSkinManager.WPF.dll",
+        "lib/netcoreapp3.1/Syncfusion.SfSkinManager.WPF.xml",
+        "syncfusion.sfskinmanager.wpf.19.4.0.54.nupkg.sha512",
+        "syncfusion.sfskinmanager.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    },
+    "Syncfusion.Themes.MaterialDark.WPF/19.4.0.54": {
+      "sha512": "bBuQg15vx9Aa3lYYhblyQ/AwfGRv2es+wsqm+tDgFrqjAVFsi2x8v8dUPpRRraoFmgP+N/ZdB8Ntri/ERCv8zg==",
+      "type": "package",
+      "path": "syncfusion.themes.materialdark.wpf/19.4.0.54",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "README.md",
+        "lib/net40/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net40/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/net45/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net45/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/net451/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net451/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/net46/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net46/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/net5.0-windows7.0/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "lib/netcoreapp3.1/Syncfusion.Themes.MaterialDark.WPF.dll",
+        "lib/netcoreapp3.1/Syncfusion.Themes.MaterialDark.WPF.xml",
+        "syncfusion.themes.materialdark.wpf.19.4.0.54.nupkg.sha512",
+        "syncfusion.themes.materialdark.wpf.nuspec",
+        "syncfusion_logo.png"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "Syncfusion.Themes.MaterialDark.WPF >= 19.4.0.54"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\daniil.orel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\daniil.orel\\University\\SoftwareDevelopment\\PR8\\Style01\\Style01.csproj",
+      "projectName": "Style01",
+      "projectPath": "C:\\Users\\daniil.orel\\University\\SoftwareDevelopment\\PR8\\Style01\\Style01.csproj",
+      "packagesPath": "C:\\Users\\daniil.orel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\daniil.orel\\University\\SoftwareDevelopment\\PR8\\Style01\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\daniil.orel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "dependencies": {
+          "Syncfusion.Themes.MaterialDark.WPF": {
+            "target": "Package",
+            "version": "[19.4.0.54, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

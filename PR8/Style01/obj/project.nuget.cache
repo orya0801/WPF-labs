@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8/qANczsMftw9AZW6MLp+F3sg+EGcxUb57rQQlHYYCtigKvJVOxxOxJspezcMg2J7YnYUh77kmibZiVX2EfNWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daniil.orel\\University\\SoftwareDevelopment\\PR8\\Style01\\Style01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daniil.orel\\.nuget\\packages\\syncfusion.licensing\\19.4.0.54\\syncfusion.licensing.19.4.0.54.nupkg.sha512",
+    "C:\\Users\\daniil.orel\\.nuget\\packages\\syncfusion.sfskinmanager.wpf\\19.4.0.54\\syncfusion.sfskinmanager.wpf.19.4.0.54.nupkg.sha512",
+    "C:\\Users\\daniil.orel\\.nuget\\packages\\syncfusion.themes.materialdark.wpf\\19.4.0.54\\syncfusion.themes.materialdark.wpf.19.4.0.54.nupkg.sha512"
+  ],
+  "logs": []
+}
